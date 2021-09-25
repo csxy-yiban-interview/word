@@ -24,3 +24,7 @@
 ## 修改区域
 
 > 你可以在修改这部分的任何内容，并提交一个 PR（pull requests）来让我们看见，尽情的折腾吧
+
+麻了
+http://www.github.com/
+所以怎么clone啊(⋟﹏⋞)
