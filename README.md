@@ -22,5 +22,4 @@
 对计算机不了解的同学，建议看看这个：https://www.bilibili.com/video/av21376839
 
 ## 修改区域
-
-> 你可以在修改这部分的任何内容，并提交一个 PR（pull requests）来让我们看见，尽情的折腾吧
+try try 尝试一下
